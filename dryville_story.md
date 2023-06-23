@@ -30,5 +30,4 @@ Now everyone is enjoying running water in their homes. But it took a lot of work
 
 Soon you start getting money from the citizens buying water from you - and that gives you an idea. You're going to write an acquaintance back home and tell him he needs to build another town down the road from Dryville. Then when your friend gets his town started, Dryville will offer to sell them water that you get from your public-supply system! You can build an [aqueduct system](https://www.usgs.gov/special-topics/water-science-school/science/aqueducts-move-water-past-and-today) to move water from Dryville to them. Of course, there will be a mark up to cover the cost of delivering the water — nothing wrong with making a little profit.
 
-## Be Gone, Dirty Water
-One night you again sit down to a dinner of fresh-caught catfish — don't forget to wash your hands in the water bucket after cleaning those stinky fish! And those dirty dishes, just wash them in the bucket, too. Then get rid of that smelly bucket of water —just throw it out in the yard. But your neighbor complains about having to smell rotten fish all night, and you complain to him about the water they wash their dirty clothes in finding its way to your front step. And then there's that hole your neighbor dug for his toilet — well, use your imagination.
+
